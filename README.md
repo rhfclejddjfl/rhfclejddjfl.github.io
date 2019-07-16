@@ -4,13 +4,16 @@
 카테고리는 아직 생각중
 
 
-# Blog Post
-## My first Blog Post
-* Post1
-* Post2
-* Post3
+
 
 > css
 > jquery
 > react.js 삽질
 > 기타 등등..
+
+
+# Blog Post
+## My first Blog Post
+* Post1
+* Post2
+* Post3
