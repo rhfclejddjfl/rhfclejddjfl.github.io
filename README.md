@@ -1,3 +1,10 @@
 # rhfclejddjfl.github.io
 
-2019년 첫 도전!
+기술 블로그 시작 
+카테고리는 아직 생각중
+
+
+> css
+> jquery
+> react.js 삽질
+> 기타 등등..
