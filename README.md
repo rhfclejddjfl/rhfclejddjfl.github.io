@@ -3,7 +3,6 @@
 기술 블로그 시작 
 카테고리는 아직 생각중
 
-# Blog Post
 ## css
 
 ## jquery
